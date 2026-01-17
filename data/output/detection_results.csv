@@ -1,0 +1,6 @@
+Image,Class,Confidence,x1,y1,x2,y2,Position,Distance (m),Description
+sample5.jpg,chair,0.8619853854179382,94.6631088256836,235.3346710205078,157.42886352539062,297.9131164550781,center left,12.78,"a chair at center left, approximately 12.8m away"
+sample5.jpg,potted plant,0.7355248332023621,226.08859252929688,224.81625366210938,364.5037841796875,360.9924621582031,bottom center,2.94,"a potted plant at bottom center, approximately 2.9m away"
+sample5.jpg,vase,0.7147287130355835,260.0224609375,301.26654052734375,317.87841796875,361.75927734375,bottom center,6.61,"a vase at bottom center, approximately 6.6m away"
+sample5.jpg,chair,0.7087867856025696,192.9585723876953,227.95399475097656,240.2003173828125,279.06951904296875,straight ahead,15.65,"a chair at straight ahead, approximately 15.7m away"
+sample5.jpg,potted plant,0.5991327166557312,575.9601440429688,193.1938934326172,597.0872802734375,241.4991912841797,center right,8.28,"a potted plant at center right, approximately 8.3m away"
